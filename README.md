@@ -1,1 +1,1 @@
-# ClassificadorSpotify
+# Um programa em Python que analisa o Dataset “Spotify Top 200 Charts (2020-2021)”, que engloba todas as músicas que estiveram no Top 200 Weekly (Global) charts do Spotify em 2020 e 2021. Utilizando um comitê de classificadores, o programa estima a popularidade das músicas. Para isso, emprega algoritmos de aprendizado de máquina como KNN (K-Nearest Neighbors), Naive Bayes e SVM (Support Vector Machine).
